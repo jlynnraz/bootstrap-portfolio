@@ -1,0 +1,40 @@
+body{
+    background-image: url(https://wwvalue.com/ct/2017/03/free-vector-textures-backgrounds-high-quality-02.jpg);
+    color: rgb(66, 64, 64);
+    position: relative;
+    height: 100vh;
+}
+
+nav{
+    background: teal;
+}
+
+.name{
+    margin-right: 600px;
+
+}
+
+.card{
+    margin-top: 50px;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+
+button{
+    margin-top: 10px;
+}
+
+input{
+    width: 100%;
+}
+
+* {
+    box-sizing: border-box
+}
+
+footer{
+    text-align: center;
+position: fixed;
+    background: grey;
+    bottom: 0;
+}
